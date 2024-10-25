@@ -1,2 +1,3 @@
-# infocasastaskapp
+# InfoCasasTaskApp
+
 App for InfoCasas challenge

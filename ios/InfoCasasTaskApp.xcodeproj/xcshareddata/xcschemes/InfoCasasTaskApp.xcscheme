@@ -2,45 +2,45 @@
 <Scheme
    LastUpgradeVersion = "1210"
    version = "1.3">
-   <BuildAction
+    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
-      <BuildActionEntries>
-         <BuildActionEntry
+        <BuildActionEntries>
+            <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
-            <BuildableReference
+                <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
                BuildableName = "InfoCasasTaskApp.app"
                BlueprintName = "InfoCasasTaskApp"
                ReferencedContainer = "container:InfoCasasTaskApp.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-      </BuildActionEntries>
-   </BuildAction>
-   <TestAction
+                </BuildableReference>
+            </BuildActionEntry>
+        </BuildActionEntries>
+    </BuildAction>
+    <TestAction
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
-      <Testables>
-         <TestableReference
+        <Testables>
+            <TestableReference
             skipped = "NO">
-            <BuildableReference
+                <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
                BuildableName = "InfoCasasTaskAppTests.xctest"
                BlueprintName = "InfoCasasTaskAppTests"
                ReferencedContainer = "container:InfoCasasTaskApp.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-      </Testables>
-   </TestAction>
-   <LaunchAction
+                </BuildableReference>
+            </TestableReference>
+        </Testables>
+    </TestAction>
+    <LaunchAction
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
@@ -50,39 +50,39 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
+        <BuildableProductRunnable
          runnableDebuggingMode = "0">
-         <BuildableReference
+            <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "InfoCasasTaskApp.app"
             BlueprintName = "InfoCasasTaskApp"
             ReferencedContainer = "container:InfoCasasTaskApp.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
-   </LaunchAction>
-   <ProfileAction
+            </BuildableReference>
+        </BuildableProductRunnable>
+    </LaunchAction>
+    <ProfileAction
       buildConfiguration = "Release"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
+        <BuildableProductRunnable
          runnableDebuggingMode = "0">
-         <BuildableReference
+            <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "InfoCasasTaskApp.app"
             BlueprintName = "InfoCasasTaskApp"
             ReferencedContainer = "container:InfoCasasTaskApp.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
-   </ProfileAction>
-   <AnalyzeAction
+            </BuildableReference>
+        </BuildableProductRunnable>
+    </ProfileAction>
+    <AnalyzeAction
       buildConfiguration = "Debug">
-   </AnalyzeAction>
-   <ArchiveAction
+    </AnalyzeAction>
+    <ArchiveAction
       buildConfiguration = "Release"
       revealArchiveInOrganizer = "YES">
-   </ArchiveAction>
+    </ArchiveAction>
 </Scheme>
