@@ -2,8 +2,8 @@
 
 A personal task management application built with React Native that helps users track and organize their daily tasks efficiently. This app features a clean, modern interface inspired by professional task management tools, with capabilities for creating, updating, and managing tasks locally on your device.
 
-![App Screenshot](path_to_your_app_screenshot.png)
-![alt text](image.png)
+![ANDROID](./assets/demo_android.gif)
+![IOS](./assets/demo_ios.gif)
 
 ## 🚀 Features
 
@@ -15,12 +15,26 @@ A personal task management application built with React Native that helps users 
 - Task categorization and organization
 - Real-time updates
 
+## 🎨 Design Process
+
+The app's interface was crafted taking inspiration from contemporary task management solutions, particularly a design concept found on Dribbble (Shot #19752197). Key elements we adapted include:
+
+- Minimalist card-based task display
+- Intuitive status indicators
+- Clean typography and spacing
+- User-friendly filtering system
+- Modern color palette
+
+![reference design](image.png)
+
+While maintaining the essence of the reference design, we tailored the interface to align with React Native's capabilities and the project's specific requirements.
+
 ## 📋 Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js (v18.x or higher) - v18.20.4 LTS
-- Java Development Kit (JDK) 17 - java 17.0.9 2023-10-17 LTS
+- Node.js (v18.x or higher) / v18.20.4 LTS
+- Java Development Kit (JDK) 17 / java 17.0.9 2023-10-17 LTS
 - Android Studio (for Android development)
 - Xcode (for iOS development, macOS only)
 - React Native CLI
