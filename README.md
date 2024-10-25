@@ -88,6 +88,9 @@ npm run ios / npx react-native run-ios
 npm run android / npx react-native run-android
 ```
 
+<span style="color: red; font-size: medium;">!!Important, if something goes wrong just reclone and reinstall.</span>
+
+
 ## 🛠️ Technology Choices and Libraries
 
 Here's an explanation of the key libraries used in this project:
