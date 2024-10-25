@@ -3,6 +3,7 @@
 A personal task management application built with React Native that helps users track and organize their daily tasks efficiently. This app features a clean, modern interface inspired by professional task management tools, with capabilities for creating, updating, and managing tasks locally on your device.
 
 ![App Screenshot](path_to_your_app_screenshot.png)
+![alt text](image.png)
 
 ## 🚀 Features
 
